@@ -127,3 +127,5 @@ if __name__ == '__main__':
     # show images
     decode_images = autoencoder.predict(x_test_noisy)
     show_images(decode_images, x_test_noisy)
+
+    # this is a testing file
